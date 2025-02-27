@@ -20,8 +20,8 @@ NetBeans IDE (Optional, for GUI Builder support)
 
 Clone the repository
 
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/AnjanaRanasinghe/Temperature-Converter-Java-Swing.git
+cd Temperature-Converter-Java-Swing
 
 Open the project in NetBeans or any Java-supported IDE
 
@@ -37,12 +37,15 @@ java TemperatureConvert.Temp
 
 ## 📖 Usage
 Enter a temperature value in the Celsius input field.
+
 Click the "Convert" button to get the Fahrenheit equivalent.
+
 The converted temperature will be displayed in the Fahrenheit field.
 
 **🔧 Formula Used for Conversion**
 
 Fahrenheit=(Celsius×9/5)+32
+
 
 ## 🎯 Future Enhancements
 
@@ -59,7 +62,7 @@ Fahrenheit=(Celsius×9/5)+32
 Contributions are always welcome! Feel free to fork the project, make improvements, and submit a pull request.
 
 
-##📜 License
+## 📜 License
 This project is distributed under the MIT License. Feel free to use it as you wish, and contributions are always welcome!
 
 ## Screenshot
