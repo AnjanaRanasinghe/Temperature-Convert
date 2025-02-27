@@ -21,6 +21,7 @@ NetBeans IDE (Optional, for GUI Builder support)
 Clone the repository
 
 git clone https://github.com/AnjanaRanasinghe/Temperature-Converter-Java-Swing.git
+
 cd Temperature-Converter-Java-Swing
 
 Open the project in NetBeans or any Java-supported IDE
